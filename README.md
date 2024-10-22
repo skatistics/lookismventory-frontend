@@ -1,0 +1,1 @@
+# lookismventory-frontend
